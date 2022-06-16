@@ -11,8 +11,8 @@ unsigned int x;
 
 if (n < 0)
 {
- _putchar('-');
- x = -n;
+_putchar('-');
+x = -n;
 }
 else
 x = n;
